@@ -7,8 +7,10 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="scripte" t="Include">
+          <e p="MyLittelComande.cs" t="Include" />
+          <e p="TestLing.cs" t="Include" />
+          <e p="Zergling.cs" t="Include" />
           <e p="ZerglingHolder.cs" t="Include" />
-          <e p="ZerglingStat.cs" t="Include" />
         </e>
       </e>
       <e p="MyLittelZergling.sln" t="IncludeFlat" />
